@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JohnnyNguyen52. 
-- 👀 I’m interested in coding and currently majoring in Computer Science.
+- 👀 I’m interested in coding and recently graduated from California State University, Sacramento with a B.S. degree in Computer Science.
 
 
 <!---
